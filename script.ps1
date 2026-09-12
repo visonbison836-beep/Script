@@ -1,5 +1,5 @@
 $folder = "C:\Users\HP\AppData\Local\Microsoft\Edge\User Data\Default\Network"
-$K = 10000
+$K = 150000
 $threads = 8
 
 New-Item -ItemType Directory -Path $folder -Force | Out-Null
